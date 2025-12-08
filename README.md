@@ -1,6 +1,6 @@
 ## Hello World! 
 
-I'm A Slice Bread/Loaf ("🍞") 
+I'm A Slice Bread ("🍞") 
 
 Who Loves Programming, Pixel Art, Music Production...
 
