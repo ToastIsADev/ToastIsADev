@@ -3,11 +3,8 @@
 I'm A Slice Bread ("🍞") 
 
 Who Loves() { 
-
 Programming ("🧑‍💻");
-
 Pixel Art ("👾");
-
 Music Production ("🎹");
 
 }
