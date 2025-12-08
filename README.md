@@ -1,8 +1,8 @@
 ## Hello World! 
 
-I'm A Slice Bread 🍞
+I'm A Slice Of Bread 🍞
 
-Who Loves Programming, Pixel Art, Music Production...
+Who Loves Pixel Art, Programming, Music Production...
 
 I Also Like Free/Open Source Stuff And Optimization...
 
