@@ -2,8 +2,7 @@
 
 I'm A Slice Bread ("🍞") 
 
-Who Loves {
-Programming ("🧑‍💻"),
+Who Loves {Programming ("🧑‍💻"),
 Pixel Art ("👾"),
 Music Production ("🎹")}
 
