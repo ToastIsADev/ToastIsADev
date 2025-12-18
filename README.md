@@ -2,7 +2,11 @@
 
 I'm A Slice Of Bread 🍞
 
-Who Loves Pixel Art, Programming, Music Production...
+Who Loves:
+
+Programming, (Rust + Python)
+Pixel Art, (Libresprite + Resprite)
+Music Production... (LMMS + FamiStudio)
 
 I Love Free/Open Source Stuff And Optimization...
 
