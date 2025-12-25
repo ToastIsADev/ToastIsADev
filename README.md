@@ -12,7 +12,7 @@ Programming, (Rust + Python).
  
 Pixel Art, (Libresprite + Resprite).  
   
-Music Production... (LMMS + FamiStudio).   
+Music Production, (LMMS + FamiStudio).   
 
 ————————————————————————
 
