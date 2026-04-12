@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, Toast Dev Is Here...</h1>
-<h3 align="center">Absolute beginner, waste 3 years learning just the fundamental of Python thanks for me being lazy...</h3>
+<h3 align="center">Absolute beginner, waste 3 years learning just the fundamental of Python. Because, I'm "Lazy"...</h3>
 
 - 📌 I’m currently learning: **Bash, Python, and in the future Rust...**
 
