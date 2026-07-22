@@ -1,10 +1,5 @@
 # 💫 About Me:
-🍞: I Love Automation and Open Source Projects
-🧠: I'm Currently Learning Python & Bash     
-⭐: My Current Stack Is Just py & sh    
-📋: My Future Stack Is Below
-📌: Role/Goal: To Be a QA Engineer
-
+Driven by a love for automation and a passion for open source projects, I am currently honing my skills in Python and Bash. While my current technical stack is focused on these two languages, I am continuously learning and expanding my toolkit as I work toward my ultimate goal of becoming a QA Engineer.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@toastthestudio?si=hVF_mwKifMfD-qzd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ToastTheStudio@protonmail.com) 
