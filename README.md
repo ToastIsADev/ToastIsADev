@@ -1,5 +1,9 @@
 # 💫 About Me:
-🍞: I Love Automation And Open Source Projects<br>🧠: I'm Currently Learning "Python" & "Bash"<br>⭐: My Current Stack Is Just "py" & "sh"<br>📋: My Future Stack Are Down Below<br>📌: Role/Goal To Be QA Engineer 
+🍞: I Love Automation and Open Source Projects
+🧠: I'm Currently Learning Python & Bash
+⭐: My Current Stack Is Just py & sh
+📋: My Future Stack Is Below
+📌: Role/Goal: To Be a QA Engineer
 
 
 ## 🌐 Socials:
